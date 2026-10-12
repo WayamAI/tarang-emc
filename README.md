@@ -69,6 +69,8 @@ Checks: `npx next typegen && npx tsc --noEmit`, `npm run lint`, `npm run build`.
 
 ## Demo sign-in
 
+Live demo (Vercel): [https://tarang-emc.vercel.app/login](https://tarang-emc.vercel.app/login)
+
 - Email: `operator@tarang.ai`
 - Password: `command`
 
